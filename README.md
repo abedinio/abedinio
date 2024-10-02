@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Amin Abedini</h1>
+<h1 align="center">Hi 👋, I'm Amin</h1>
 <h3 align="center">a data scientist focused on transportation and urban mobility. Currently working at Metrolinx, I’m exploring data-driven solutions to improve transit in the GTHA.</h3>
 
 <h3 align="left">Connect with me:</h3>
